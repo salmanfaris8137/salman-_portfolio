@@ -1,0 +1,312 @@
+Uri: https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiAyp8kv8JHgFVrJJLmE3tF.ttf
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\s\poppins\v21\pxiAyp8kv8JHgFVrJJLmE3tF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLBT5V1s.ttf
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\s\poppins\v21\pxiByp8kv8JHgFVrLBT5V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\s\poppins\v21\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDD4V1s.ttf
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\s\poppins\v21\pxiByp8kv8JHgFVrLDD4V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\s\poppins\v21\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\s\poppins\v21\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLFj_V1s.ttf
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\s\poppins\v21\pxiByp8kv8JHgFVrLFj_V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\s\poppins\v21\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm111lEA.ttf
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm111lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm21llEA.ttf
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm21llEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLm81xlEA.ttf
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\s\poppins\v21\pxiDyp8kv8JHgFVrJJLm81xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmv1plEA.ttf
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmv1plEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiDyp8kv8JHgFVrJJLmy15lEA.ttf
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\s\poppins\v21\pxiDyp8kv8JHgFVrJJLmy15lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\s\poppins\v21\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrJJLedw.ttf
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\s\poppins\v21\pxiGyp8kv8JHgFVrJJLedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrLPTedw.ttf
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\s\poppins\v21\pxiGyp8kv8JHgFVrLPTedw.ttf
+Content Type: font/ttf
+
+Uri: https://harnishdesign.net/demo/html/simone/ajax/portfolio-ajax-project-1.html
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\ajax\portfolio-ajax-project-1.html
+Content Type: text/html
+
+Uri: https://harnishdesign.net/demo/html/simone/ajax/portfolio-ajax-project-2.html
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\ajax\portfolio-ajax-project-2.html
+Content Type: text/html
+
+Uri: https://harnishdesign.net/demo/html/simone/ajax/portfolio-ajax-project-3.html
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\ajax\portfolio-ajax-project-3.html
+Content Type: text/html
+
+Uri: https://harnishdesign.net/demo/html/simone/ajax/portfolio-ajax-project-4.html
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\ajax\portfolio-ajax-project-4.html
+Content Type: text/html
+
+Uri: https://harnishdesign.net/demo/html/simone/ajax/portfolio-ajax-project-5.html
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\ajax\portfolio-ajax-project-5.html
+Content Type: text/html
+
+Uri: https://harnishdesign.net/demo/html/simone/ajax/portfolio-ajax-project-6.html
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\ajax\portfolio-ajax-project-6.html
+Content Type: text/html
+
+Uri: https://harnishdesign.net/demo/html/simone/ajax/portfolio-ajax-project-7.html
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\ajax\portfolio-ajax-project-7.html
+Content Type: text/html
+
+Uri: https://harnishdesign.net/demo/html/simone/css/stylesheet.css
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\css\stylesheet.css
+Content Type: text/css
+
+Uri: https://harnishdesign.net/demo/html/simone/images/favicon.png
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\images\favicon.png
+Content Type: image/png
+
+Uri: https://harnishdesign.net/demo/html/simone/images/intro-bg.jpg
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\images\intro-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://harnishdesign.net/demo/html/simone/images/profile.jpg
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\images\profile.jpg
+Content Type: image/jpeg
+
+Uri: https://harnishdesign.net/demo/html/simone/images/projects/project-1.jpg
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\images\projects\project-1.jpg
+Content Type: image/jpeg
+
+Uri: https://harnishdesign.net/demo/html/simone/images/projects/project-2.jpg
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\images\projects\project-2.jpg
+Content Type: image/jpeg
+
+Uri: https://harnishdesign.net/demo/html/simone/images/projects/project-3.jpg
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\images\projects\project-3.jpg
+Content Type: image/jpeg
+
+Uri: https://harnishdesign.net/demo/html/simone/images/projects/project-4.jpg
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\images\projects\project-4.jpg
+Content Type: image/jpeg
+
+Uri: https://harnishdesign.net/demo/html/simone/images/projects/project-5.jpg
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\images\projects\project-5.jpg
+Content Type: image/jpeg
+
+Uri: https://harnishdesign.net/demo/html/simone/images/projects/project-6.jpg
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\images\projects\project-6.jpg
+Content Type: image/jpeg
+
+Uri: https://harnishdesign.net/demo/html/simone/images/projects/project-7.jpg
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\images\projects\project-7.jpg
+Content Type: image/jpeg
+
+Uri: https://harnishdesign.net/demo/html/simone/images/testimonial/client-sm-1.jpg
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\images\testimonial\client-sm-1.jpg
+Content Type: image/jpeg
+
+Uri: https://harnishdesign.net/demo/html/simone/images/testimonial/client-sm-2.jpg
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\images\testimonial\client-sm-2.jpg
+Content Type: image/jpeg
+
+Uri: https://harnishdesign.net/demo/html/simone/images/testimonial/client-sm-3.jpg
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\images\testimonial\client-sm-3.jpg
+Content Type: image/jpeg
+
+Uri: https://harnishdesign.net/demo/html/simone/images/testimonial/client-sm-4.jpg
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\images\testimonial\client-sm-4.jpg
+Content Type: image/jpeg
+
+Uri: https://harnishdesign.net/demo/html/simone/index.html
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\index.html
+Content Type: text/html
+
+Uri: https://harnishdesign.net/demo/html/simone/js/switcher.min.js
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\js\switcher.min.js
+Content Type: application/javascript
+
+Uri: https://harnishdesign.net/demo/html/simone/js/theme.js
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\js\theme.js
+Content Type: application/javascript
+
+Uri: https://harnishdesign.net/demo/html/simone/vendor/bootstrap/css/bootstrap.min.css
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\vendor\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://harnishdesign.net/demo/html/simone/vendor/bootstrap/js/bootstrap.bundle.min.js
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\vendor\bootstrap\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://harnishdesign.net/demo/html/simone/vendor/font-awesome/css/all.min.css
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\vendor\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://harnishdesign.net/demo/html/simone/vendor/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\vendor\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://harnishdesign.net/demo/html/simone/vendor/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\vendor\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://harnishdesign.net/demo/html/simone/vendor/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\vendor\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://harnishdesign.net/demo/html/simone/vendor/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\vendor\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://harnishdesign.net/demo/html/simone/vendor/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\vendor\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://harnishdesign.net/demo/html/simone/vendor/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\vendor\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://harnishdesign.net/demo/html/simone/vendor/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\vendor\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://harnishdesign.net/demo/html/simone/vendor/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\vendor\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://harnishdesign.net/demo/html/simone/vendor/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\vendor\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://harnishdesign.net/demo/html/simone/vendor/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\vendor\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://harnishdesign.net/demo/html/simone/vendor/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\vendor\font-awesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://harnishdesign.net/demo/html/simone/vendor/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\vendor\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://harnishdesign.net/demo/html/simone/vendor/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\vendor\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://harnishdesign.net/demo/html/simone/vendor/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\vendor\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://harnishdesign.net/demo/html/simone/vendor/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\vendor\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://harnishdesign.net/demo/html/simone/vendor/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\vendor\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://harnishdesign.net/demo/html/simone/vendor/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\vendor\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://harnishdesign.net/demo/html/simone/vendor/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\vendor\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://harnishdesign.net/demo/html/simone/vendor/imagesloaded/imagesloaded.pkgd.min.js
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\vendor\imagesloaded\imagesloaded.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://harnishdesign.net/demo/html/simone/vendor/isotope/isotope.pkgd.min.js
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\vendor\isotope\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://harnishdesign.net/demo/html/simone/vendor/jquery.appear/jquery.appear.min.js
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\vendor\jquery.appear\jquery.appear.min.js
+Content Type: application/javascript
+
+Uri: https://harnishdesign.net/demo/html/simone/vendor/jquery.countTo/jquery.countTo.min.js
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\vendor\jquery.countTo\jquery.countTo.min.js
+Content Type: application/javascript
+
+Uri: https://harnishdesign.net/demo/html/simone/vendor/jquery.easing/jquery.easing.min.js
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\vendor\jquery.easing\jquery.easing.min.js
+Content Type: application/javascript
+
+Uri: https://harnishdesign.net/demo/html/simone/vendor/jquery/jquery.min.js
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\vendor\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://harnishdesign.net/demo/html/simone/vendor/magnific-popup/jquery.magnific-popup.min.js
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\vendor\magnific-popup\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://harnishdesign.net/demo/html/simone/vendor/magnific-popup/magnific-popup.min.css
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\vendor\magnific-popup\magnific-popup.min.css
+Content Type: text/css
+
+Uri: https://harnishdesign.net/demo/html/simone/vendor/owl.carousel/assets/owl.carousel.min.css
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\vendor\owl.carousel\assets\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://harnishdesign.net/demo/html/simone/vendor/owl.carousel/assets/owl.video.play.png
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\vendor\owl.carousel\assets\owl.video.play.png
+Content Type: image/png
+
+Uri: https://harnishdesign.net/demo/html/simone/vendor/owl.carousel/owl.carousel.min.js
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\vendor\owl.carousel\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://harnishdesign.net/demo/html/simone/vendor/parallaxie/parallaxie.min.js
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\vendor\parallaxie\parallaxie.min.js
+Content Type: application/javascript
+
+Uri: https://harnishdesign.net/demo/html/simone/vendor/typed/typed.min.js
+File Name: C:\Users\HP\OneDrive\Desktop\salman\harnishdesign.net\demo\html\simone\vendor\typed\typed.min.js
+Content Type: application/javascript
+
